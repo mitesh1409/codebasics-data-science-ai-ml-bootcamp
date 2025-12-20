@@ -1,42 +1,5 @@
 # Module #2: Python
 
-## #2.1: Project 1 - Hospitality Domain Data Analysis
-
-Various aspects of Data Analyst projects such as:
-
-1. Understanding Business Problem
-2. Data Understanding
-3. Data Collection
-4. Data Cleaning
-5. Data Transformation
-6. Insight Generation
-
-## #2.2: Expense Tracking System
-
-What you will learn:
-
-- Streamlit UI Framework
-- FastAPI Backend Framework
-- Database Interactions in Python
-- Pydantic
-- Context Manager
-- API Calls Using Requests Package
-
-## #3: Python Setup
-
-Install Python.
-
-Install the classic Jupyter Notebook with:
-`pip install notebook`
-
-To run the notebook:
-`jupyter notebook`
-
-References:  
-[Python Official Website](https://www.python.org/)
-[Jupyter Notebook](https://jupyter.org/)
-[Install Jupyter Notebook](https://jupyter.org/install#jupyter-notebook)
-
 ## #4.1: Variables
 
 - Variables are containers that store data.
