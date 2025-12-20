@@ -1,11 +1,18 @@
 # Bootcamp Introduction
 
-## Job Keywords
+## Job Title Keywords
 
-* Data Science
-* Data Scientist
-* AI/ML Engineer
+* Gen AI Developer
 * Gen AI Engineer
+* AI/ML Engineer
+* Applied AI Engineer
+* AI Research Engineer
+* NLP Engineer
+* Deep Learning Engineer
+* Data Scientist
+* Data Science Engineer
+* AI Architect
+* Research Scientist - Data
 
 ## Kaggle Competitions
 
@@ -28,3 +35,18 @@ https://www.kaggle.com/competitions
   * Meeting deadlines
   * Computational thinking approach
 * Goes extra mile
+
+## Focus on Non-Tech Skills
+
+* Domain and Functional Knowledge
+* Problem-Solving Mindset
+* Using the Internet as a Second Brain
+* Project Management
+* Stakeholder Management
+* Online Credibility
+
+## References
+
+* [Learn Python Playlist](https://www.youtube.com/watch?v=eykoKxsYtow&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0)
+* [Math & Stats Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
+* [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
