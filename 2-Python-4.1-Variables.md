@@ -17,6 +17,8 @@ Use `print()` function to print data on the screen.
 
 Use `type()` function to get type of a variable.
 
+## Dynamically Typed
+
 Python is "Dynamically Typed" language.
 Variables are not bound to any specific type, they can contain values of any type.
 
@@ -29,6 +31,8 @@ score = 'Two Hundred and Fifty'
 print(score) # Two Hundred and Fifty
 type(score) # str
 ```
+
+## Everything is an object
 
 > In Python, everything is an object.
 
