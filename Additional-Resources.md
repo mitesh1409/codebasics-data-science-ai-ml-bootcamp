@@ -1,5 +1,21 @@
 # Additional Resources for Data Science and AI ML Journey
 
+Shortlisted resources to help you on your Data Science and AI/ML journey:
+
+* [Python Full Course For Beginners (Learn How To Code in 2025)](https://www.youtube.com/watch?v=Lc5LKDqhyzs)
+
+* Data Camp SQL Courses
+
+* https://www.youtube.com/watch?v=hlGoQC332VM
+
+* https://www.youtube.com/watch?v=WXk7yDqsKxs
+
+* https://www.youtube.com/watch?v=OT1RErkfLNQ
+
+* [PostgreSQL for Everybody](https://online.umich.edu/series/postgresql-for-everybody/)
+
+---
+
 * [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [Python Full Course For Beginners (Learn How To Code in 2025)](https://www.youtube.com/watch?v=Lc5LKDqhyzs)
 * [Learn Python Playlist](https://www.youtube.com/watch?v=eykoKxsYtow&list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0)
