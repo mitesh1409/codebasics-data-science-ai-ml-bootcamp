@@ -28,6 +28,7 @@ https://www.kaggle.com/competitions
 **2.0**  
 
 * Problem solvers
+* Understands business
 * Excellent soft skills
   * Communication
   * Expectations management
