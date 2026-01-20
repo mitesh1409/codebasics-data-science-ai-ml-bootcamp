@@ -29,6 +29,7 @@ https://www.kaggle.com/competitions
 
 * Problem solvers
 * Understands business
+* Provides valuable inputs
 * Excellent soft skills
   * Communication
   * Expectations management
