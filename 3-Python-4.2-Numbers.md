@@ -18,3 +18,16 @@ Available mathematical operations on Numbers are:
   The % (modulo) operator yields the remainder from the division of the first argument by the second.
 
 `dir(math)` gives all the functions available in the `math` module.  
+
+`e1` scientific notation:  
+
+* `1e1 = 10`
+* `1e2 = 100`
+* `1e-1 = 0.1`
+* `1e-2 = 0.01`
+
+---
+
+**Pro Tip**  
+
+> In a Jupyter Notebook, while writing code to get a help on a built-in function type "Shift + Tab".  
