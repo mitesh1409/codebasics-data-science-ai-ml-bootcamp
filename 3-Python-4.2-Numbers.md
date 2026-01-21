@@ -31,3 +31,14 @@ Available mathematical operations on Numbers are:
 **Pro Tip**  
 
 > In a Jupyter Notebook, while writing code to get a help on a built-in function type "Shift + Tab".  
+
+---
+
+**Modulo Division `%` Operator**
+
+Practise the following examples:  
+
+```python
+-9 % 2 # result = 1
+-1 % 10 # result = 9
+```
